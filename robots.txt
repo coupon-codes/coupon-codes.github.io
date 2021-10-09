@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://go.konfig.my.id/sitemap.xml
+Sitemap: https://tarmana.github.io/p/sitemap.xml
