@@ -1,5 +1,5 @@
 ---
-title: "Test Monitoring for LocalStack Apps"
+title: "Aku jauh cinta"
 description: "Developing Serverless Applications Locally with LocalStack and Debugging Tests with Thundra Foresight."
 lead: "Developing Serverless Applications Locally with LocalStack and Debugging Tests with Thundra Foresight. (Guest blog post by Oguzhan Ozdemir, Solutions Engineer @ Thundra)"
 date: 2021-09-16T13:10:00+02:00
