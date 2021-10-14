@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Blog"
 titleSeparator = "-"
 titleAddition = "Modern Documentation Theme"
 description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
@@ -9,8 +9,8 @@ description = "Doks is a Hugo theme helping you build modern documentation websi
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+domainTLD = "/"
+titleHome = "Blog"
 
 ## Twitter Cards
 twitterSite = "@getdoks"
